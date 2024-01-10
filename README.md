@@ -18,6 +18,7 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
     <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/70b881af-a7af-4bb1-a431-2aa23e8905da">
 </p>
 
+<br>
 
 **Basic functionality**
 
