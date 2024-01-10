@@ -76,4 +76,4 @@ The app sets up a web server for a supplier management system. It allows viewing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities.<br>
 
 ✍️ 10.**[Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)**<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am deploying the web application on MS Azure AKS using HELM. Subsequently, I am introducing the second version of the app and then rollback to the first version.
