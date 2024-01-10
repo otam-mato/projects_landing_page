@@ -52,13 +52,13 @@ The app sets up a web server for a supplier management system. It allows viewing
 
 ### Projects:
 
-✍️ 1. [Deploying on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform) <br>
-✍️ 2. [Migrating MySQL --> MongoDB with a Python script. Deploying on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)<br>
-✍️ 3. [Building and deploying on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)<br>
-✍️ 4. [Deploying on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)<br>
-✍️ 5. [Monitoring logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
-✍️ 6. [Monitoring with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)<br>
-✍️ 7. [Monitoring with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)<br>
+✍️ 1. [Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform) <br>
+✍️ 2. [Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)<br>
+✍️ 3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)<br>
+✍️ 4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)<br>
+✍️ 5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
+✍️ 6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)<br>
+✍️ 7. [Monitoring the app with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)<br>
 ✍️ 8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)<br>
 ✍️ 9. [Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)<br>
 ✍️ 10.[Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)<br>
