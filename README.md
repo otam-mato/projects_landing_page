@@ -51,7 +51,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 ✍️ 1. [Deploying on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform) <br>
 ✍️ 2. [Building and deploying on Docker containers]()<br>
 ✍️ 3. [Deploying on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)<br>
-✍️ 4. [Monitoring logs with ELK](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
+✍️ 4. [Monitoring logs with ELK stack (ElasticSearch, Logstash, Kibana](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
 ✍️ [5]()<br>
 ✍️ [6]()<br>
 ✍️ [7]()<br>
