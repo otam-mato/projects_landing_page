@@ -3,6 +3,8 @@
 
 ## 🚀 A series of practical projects inspired by the idea to take the same sample NodeJS web application and juggle it applying diverse DevOps technologies:
 
+**Basic functionality**
+
 This two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
 
 **<details markdown=1><summary markdown="span">Detailed app description</summary>**
