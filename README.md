@@ -66,8 +66,8 @@ The app sets up a web server for a supplier management system. It allows viewing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am taking a deeper dive by deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
 ✍️ 5. **[Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
-
 ✍️ 6. **[Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ✍️ 7. **[Monitoring the app with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)**<br>
 ✍️ 8. **[Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 ✍️ 9. **[Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
