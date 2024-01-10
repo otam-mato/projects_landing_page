@@ -54,8 +54,8 @@ The app sets up a web server for a supplier management system. It allows viewing
 
 ✍️ 1. **[Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; In this setting I automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
- <br>
-✍️ 2. **[Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
+ <br><br>
+✍️ 2. **[Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this installment I migrate the MySQL database to MongoDB and launch the app on two EC2 instances within the AWS infrastructure.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br>
