@@ -58,8 +58,8 @@ The app sets up a web server for a supplier management system. It allows viewing
 ✍️ 2. **[Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this installment I migrate the MySQL database to MongoDB and launch the app on two EC2 instances within the AWS infrastructure.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.
-✍️ 3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br>
+✍️ 3. **[Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 ✍️ 4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)<br>
 ✍️ 5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
 ✍️ 6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)<br>
