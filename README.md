@@ -57,7 +57,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 ✍️ 5. [Monitoring logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
 ✍️ 6. [Monitoring with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)<br>
 ✍️ 7. [Monitoring with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)<br>
-✍️ [7]()<br>
+✍️ 8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes.](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)<br>
 ✍️ [8]()<br>
 ✍️ [9]()<br>
 ✍️ [10]()<br>
