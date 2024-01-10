@@ -5,6 +5,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![image](https://github.com/otam-mato/projects_landing_page/assets/113034133/2f4f43e4-583a-440e-b3c1-3f38674417a9)
+
+
 **Basic functionality**
 
 This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
