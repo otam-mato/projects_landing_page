@@ -60,6 +60,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
 ✍️ 3. **[Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current installment involves deploying the web app in contaners with Docker.<br><br>
 ✍️ 4. **[Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 ✍️ 5. **[Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 ✍️ 6. **[Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
