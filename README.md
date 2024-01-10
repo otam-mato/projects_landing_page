@@ -73,5 +73,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 ✍️ 8. **[Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am building CICD pipeline with Jenkins to deploy the app on Kubernetes. Implement testing stages (unit and end-to-end testing) with MochaJS and ChaiJS<br><br>
 ✍️ 9. **[Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities.<br>
+
 ✍️ 10.**[Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)**<br>
 
