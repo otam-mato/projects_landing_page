@@ -9,6 +9,8 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 
 <p align="center">
     <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/2f4f43e4-583a-440e-b3c1-3f38674417a9">
+</p>
+<p align="center">
     <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/70b881af-a7af-4bb1-a431-2aa23e8905da">
 </p>
 
