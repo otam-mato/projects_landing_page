@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## 🚀 A series of practical projects inspired by the idea to juggle the same sample NodeJS web application and exploring diverse DevOps technologies:
+## 🚀 A series of practical projects inspired by the idea to take the same sample NodeJS web application and juggle it applying diverse DevOps technologies:
 
 This two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
 
