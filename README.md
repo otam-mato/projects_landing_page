@@ -51,7 +51,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 ### Projects:
 
 ✍️ 1. [Deploying on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform) <br>
-✍️ 2. [Migrating MySQL --> MongoDB. Deploying on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)<br>
+✍️ 2. [Migrating MySQL --> MongoDB with a Python script. Deploying on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)<br>
 ✍️ 3. [Building and deploying on Docker containers]()<br>
 ✍️ 4. [Deploying on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)<br>
 ✍️ 5. [Monitoring logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)<br>
