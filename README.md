@@ -59,5 +59,5 @@ The app sets up a web server for a supplier management system. It allows viewing
 ✍️ 7. [Monitoring with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)<br>
 ✍️ 8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)<br>
 ✍️ 9. [Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)<br>
-✍️ 10.[Deploying with HELM on Azure AKS)(https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)<br>
+✍️ 10. [Deploying with HELM on Azure AKS)(https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)<br>
 
