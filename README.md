@@ -47,7 +47,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 
 ### Projects:
 
-✍️ [1]() <br>
+✍️ [1. Deploying on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform) <br>
 ✍️ [2]()<br>
 ✍️ [3]()<br>
 ✍️ [4]()<br>
