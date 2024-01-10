@@ -1,4 +1,4 @@
-# The summary of projects 
+# Summary of projects 
 
 ## Series of demo projects inspired by the idea to juggle the same sample NodeJS web application and exploring diverse DevOps technologies:
 
