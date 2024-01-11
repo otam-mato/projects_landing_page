@@ -25,8 +25,8 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 > This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
 >
 > **<details markdown=1><summary markdown="span">Detailed app description</summary>**
-
-## Summary
+>
+> ## Summary
 
 The app sets up a web server for a supplier management system. It allows viewing, adding, updating, and deleting suppliers. 
 
@@ -63,7 +63,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 #### **Starting Up**:
    - The server comes to life, starts listening for visits, and announces its awakening with a log message.
 
-</details>
+> </details>
 
 ### Projects:
 
