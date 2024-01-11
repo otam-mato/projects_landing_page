@@ -90,7 +90,7 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 ✍️ 8. **[Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am building CICD pipeline with Jenkins to deploy the app on Kubernetes. Implement testing stages (unit and end-to-end testing) with MochaJS and ChaiJS<br><br>
 ✍️ 9. **[Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities using Trivy, SonarQube and OWASP dependency check.<br>
 
 ✍️ 10.**[Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am deploying the web application on MS Azure AKS using HELM. Subsequently, I am introducing the second version of the app and then rollback to the first version.
