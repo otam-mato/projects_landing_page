@@ -20,9 +20,9 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 
 <br><br>
 
-**Basic functionality**
-
-This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
+> **Basic functionality**
+>
+> This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
 
 **<details markdown=1><summary markdown="span">Detailed app description</summary>**
 
