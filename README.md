@@ -67,7 +67,7 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 
 <br>
 
-### Projects:
+## Projects:
 
 ✍️ 1. **[Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; In this setting I automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
