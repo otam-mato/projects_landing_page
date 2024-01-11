@@ -65,6 +65,8 @@ Inspired by the idea to take the same sample NodeJS web application and juggle i
 >
 > </details>
 
+<br>
+
 ### Projects:
 
 ✍️ 1. **[Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
