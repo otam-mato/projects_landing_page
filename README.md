@@ -4,7 +4,7 @@
 
 <br>
 
-Inspired by the idea to take the same sample NodeJS web application and juggle it applying diverse DevOps technologies.
+Inspired by the idea to take the same sample NodeJS web application and juggle it applying diverse DevOps and Cloud technologies.
 
 <br>
 
