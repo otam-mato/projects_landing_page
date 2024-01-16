@@ -1,5 +1,7 @@
 # Index page
 
+<br>
+
 ## 🚀 A series of practical projects
 
 <br>
