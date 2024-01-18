@@ -72,29 +72,29 @@ Just took the same sample NodeJS web application and juggled it applying diverse
 ## Projects:
 
 ✍️ **1. [Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
-&nbsp;&nbsp;&nbsp;&nbsp; In this setting I automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
+&nbsp;&nbsp;&nbsp;&nbsp; Automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
  <br><br>
 ✍️ **2. [Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this installment I migrate the MySQL database to MongoDB and launch the app on two EC2 instances within the AWS infrastructure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Migrate the MySQL database to MongoDB and launch the app on two EC2 instances within the AWS infrastructure.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current installment involves deploying the web app in contaners with Docker.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the web app in contaners with Docker.<br><br>
 ✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
 ✍️ **6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am setting up monitoring of the app with Prometheus and Grafana using Docker Compose.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the app with Prometheus and Grafana using Docker Compose.<br><br>
 ✍️ **7. [Monitoring the app with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am setting up monitoring of the app with Prometheus and Grafana using Ansible.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the app with Prometheus and Grafana using Ansible.<br><br>
 ✍️ **8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am building CICD pipeline with Jenkins to deploy the app on Kubernetes. Implement testing stages (unit and end-to-end testing) with MochaJS and ChaiJS<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building CICD pipeline with Jenkins to deploy the app on Kubernetes. Implement testing stages (unit and end-to-end testing) with MochaJS and ChaiJS<br><br>
 ✍️ **9. [Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities using Trivy, SonarQube and OWASP dependency check.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-building the CICD pipeline to deploy the app on AKS Azure and integrating DevSecOps stages to scan the app for vulnerabilities using Trivy, SonarQube and OWASP dependency check.<br>
 
 ✍️ **10. [Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am deploying the web application on MS Azure AKS using HELM. Subsequently, I am introducing the second version of the app and then rollback to the first version.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the web application on MS Azure AKS using HELM. Subsequently, I am introducing the second version of the app and then rollback to the first version.
 
 ✍️ **11. [Setting up a Service Mesh with Istio. Demo for the Observability and traffic management](https://github.com/otam-mato/istio_nodejsapp_demo.git)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the current installment, I am setting up the service mesh with Istio and demonstrate observability features with Kiali, Jaeger, Prometheus and Grafana as well as traffic management using "Canary" deployment.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up the service mesh with Istio and demonstrate observability features with Kiali, Jaeger, Prometheus and Grafana as well as traffic management using "Canary" deployment.
