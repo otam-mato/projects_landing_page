@@ -71,7 +71,7 @@ Just took the same sample NodeJS web application and juggled it applying diverse
 
 ## Projects:
 
-✍️ 1. **[Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
+✍️ **1. [Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; In this setting I automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
  <br><br>
 ✍️ 2. **[Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
