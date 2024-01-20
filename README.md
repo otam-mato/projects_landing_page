@@ -82,11 +82,14 @@ I began with basic steps, such as simply deploying the application on servers, a
 &nbsp;&nbsp;&nbsp;&nbsp; Automate creating the infrastructure on AWS with Terraform and deploy the app on EC2 + RDS instances.
  <br><br>
 ✍️ **2. [Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Migrate the MySQL database to MongoDB and launch the app on two EC2 instances within the AWS infrastructure.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the web app in contaners with Docker.<br><br>
+
 ✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
