@@ -11,7 +11,7 @@ I prefer learning through hands-on experience rather than just copying numerousl
 
 Such approach obviously takes more time, probably that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
 
-This inspired me to launch a series where I took a NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the sample one and modified it slightly.
+This inspired me to launch a series where I took a sample NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the sample one and modified it slightly.
 <br>
 
 I began with basic steps, such as simply deploying the application on servers, and then progressively advanced, delving into more complex aspects while exploring current DevOps and Cloud concepts.
