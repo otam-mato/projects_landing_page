@@ -10,11 +10,10 @@ I prefer learning through hands-on experience rather than just following countle
 <br>
 
 This mindset inspired me to launch a series where I took a NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the sample one and modified it slightly.
-
 <br>
 I began with basic steps, such as simply deploying the application on servers, and then progressively advanced, delving into more complex aspects while exploring current DevOps and Cloud concepts
 
-<br>
+<br><br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
