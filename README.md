@@ -92,8 +92,8 @@ I began with basic steps, such as simply deploying the application on servers, a
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the web app in contaners with Docker.<br><br>
-
 ✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
