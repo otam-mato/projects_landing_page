@@ -91,7 +91,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing Docker for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints. This approach streamlined the journey of the application.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing **Docker** for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints and pushed them to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
 ✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
