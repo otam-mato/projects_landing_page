@@ -98,7 +98,9 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next step is Observability. I used ELK stack—ElasticSearch, Logstash, Kibana—providing comprehensive log monitoring capabilities.
+
+Setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
 ✍️ **6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the app with Prometheus and Grafana using Docker Compose.<br><br>
