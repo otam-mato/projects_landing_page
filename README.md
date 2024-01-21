@@ -96,7 +96,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, following the logical path I transitioned the Dockerized app into **Kubernetes**, orchestrating the deployment of the application within a **Kubernetes** cluster launched on **AWS EKS**. The follwing introduction of a **"Canary"** deployment strategy deploying ensured a gradual transition to a new version #2, minimizing user impact.
 
-✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
+✍️ **5. [ELK Stack Implementation for Log Monitoring and Observability (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next is **Observability**. I used **ELK** stack—**ElasticSearch, Logstash, Kibana**—to set up comprehensive log monitoring capabilities.
 
