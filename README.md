@@ -92,7 +92,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 ✍️ **3. [Docker Container Deployment for Application Portability](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing **Docker** for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints and pushed them to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
-✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
+✍️ **4. [Kubernetes Deployment and "Canary" Strategy](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, following the logical path I transitioned the Dockerized app into **Kubernetes**, orchestrating the deployment of the application within a **Kubernetes** cluster launched on **AWS EKS**. The follwing introduction of a **"Canary"** deployment strategy deploying ensured a gradual transition to a new version #2, minimizing user impact.
 
