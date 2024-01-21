@@ -116,8 +116,10 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 ✍️ **10. [Deploying with HELM on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_helm_azure_aks_deployment)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the web application on MS Azure AKS using HELM. Subsequently, I am introducing the second version of the app and then rollback to the first version.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leveraging **HELM** charts, I orchestrated the deployment of the web application again on **Microsoft Azure's AKS**. The introduction of a second version of the app allowed for controlled rollouts and rollbacks, ensuring a seamless and controlled deployment process.
+
 
 ✍️ **11. [Setting up a Service Mesh with Istio. Demo for the Observability and traffic management](https://github.com/otam-mato/istio_nodejsapp_demo.git)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up the service mesh with Istio and demonstrate observability features with Kiali, Jaeger, Prometheus and Grafana as well as traffic management using "Canary" deployment.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing **Istio** as a service mesh solution, I configured **Observability** features using **Kiali, Jaeger, Prometheus,** and **Grafana**. The implementation showcased a **Blue-Green** and **"Canary"** deployment strategy, providing fine-grained control over traffic management.
+
