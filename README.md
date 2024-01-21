@@ -107,7 +107,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 ✍️ **7. [Ansible-Driven Setup of Prometheus and Grafana](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And again **Observability**. The same stack but setting it up with **Ansible**.<br><br>
-✍️ **8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
+✍️ **8. [Jenkins-Based CICD Pipeline to Kubernetes on AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The implementation of a **Continuous Integration/Continuous Deployment (CICD)** pipeline using **Jenkins** facilitated the deployment of the application on **Kubernetes** within **AWS Elastic Kubernetes Service (EKS)**. To be closer to the real-world use cases, the pipeline incorporated testing stages for unit and end-to-end testing. I modified the app to involve **MochaJS** and **ChaiJS** testing libraries<br><br>
 ✍️ **9. [Implementing DevSecOps stages and re-building the CICD pipeline to deploy the app on Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
