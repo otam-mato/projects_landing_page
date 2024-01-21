@@ -121,5 +121,5 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 ✍️ **11. [Setting up a Service Mesh with Istio. Demo for the Observability and traffic management](https://github.com/otam-mato/istio_nodejsapp_demo.git)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing **Istio** as a service mesh solution, I configured **Observability** features using **Kiali, Jaeger, Prometheus,** and **Grafana**. The implementation showcased a **Blue-Green** and **"Canary"** deployment strategy, providing fine-grained control over traffic management.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing **Istio** as a service mesh solution, I configured **Observability** features using **Kiali, Jaeger, Prometheus,** and **Grafana**. The implementation showcased a **Blue-Green** and **Canary** deployment strategies, providing fine-grained control over traffic management.
 
