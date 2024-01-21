@@ -88,7 +88,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What if the we need using a **NoSQL** database instead of **SQL** while using the existing **SQL** data? So, I created a **Python** script to convert **SQL** data to **JSON**, migrated the database to **MongoDB**, and tweaked the app to talk to **MongoDB** instead of **MySQL**. Finally, I deployed it on two **EC2** instances.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for **AWS CloudFormation** as the Infrastructure as Code (IaC) tool instead of **Terraform**.<br><br>
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing **Docker** for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints and pushed them to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
