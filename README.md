@@ -103,7 +103,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, I modified the app and involved **"Bunyan logger"** (a JS logging library) <br><br>
 ✍️ **6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Observability** again. Here I set up monitoring of the app's metrics with **Prometheus** and **Grafana** to deliver the real-time visual data and watch the application performance. Deployed the stack using**Docker Compose**.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Observability** again. Here I set up monitoring of the app's metrics with **Prometheus** and **Grafana** to deliver the real-time visual data and watch the application performance. Deployed the stack using **Docker Compose**.<br><br>
 ✍️ **7. [Monitoring the app with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And again **Observability**. The same stack but setting up with **Ansible**.<br><br>
