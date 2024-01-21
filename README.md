@@ -6,10 +6,10 @@
 
 <br>
 
-I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges head-on. 
+I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges head-on. I also niticed that describing in writing of what you've learned helps you remember stuff even better and re-produce it when needed.
 <br>
 
-Such approach obviously takes more time, that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
+Such approaches obviously take more time, that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
 
 This inspired me to launch a series where I took a sample NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the sample one and modified it slightly.
 <br>
