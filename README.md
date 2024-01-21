@@ -6,7 +6,7 @@
 
 <br>
 
-I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges head-on. I also niticed that describing in writing of what you've learned helps you remember stuff even better and re-produce it when needed.
+I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges head-on. I also niticed that describing in writing of what you've learned helps you remember stuff even better and re-produce easyly when needed.
 <br>
 
 Such approaches obviously take more time, that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
