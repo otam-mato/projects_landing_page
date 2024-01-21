@@ -98,15 +98,15 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next step is **Observability**. I used **ELK** stack—**ElasticSearch, Logstash, Kibana**—to set up comprehensive log monitoring capabilities.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next is **Observability**. I used **ELK** stack—**ElasticSearch, Logstash, Kibana**—to set up comprehensive log monitoring capabilities.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log literally every HTTP request sent to the server, I modified the app and involved **"Bunyan logger"** (a JS logging library) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, I modified the app and involved **"Bunyan logger"** (a JS logging library) <br><br>
 ✍️ **6. [Monitoring the app with Prometheus and Grafana. Deploying with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Observability** again. Here I set up monitoring of the app's metrics with **Prometheus** and **Grafana** to deliver the real-time visual data to watch the application performance. Deployed the stack using**Docker Compose**.<br><br>
 ✍️ **7. [Monitoring the app with Prometheus and Grafana. Deploying with Ansible](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana_ansible)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the app with Prometheus and Grafana using Ansible.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And again **Observability**. Setting up the same stack but using **Ansible.<br><br>
 ✍️ **8. [Building CICD pipeline with Jenkins to deploy the app on Kubernetes AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building CICD pipeline with Jenkins to deploy the app on Kubernetes. Implement testing stages (unit and end-to-end testing) with MochaJS and ChaiJS<br><br>
