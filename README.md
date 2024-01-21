@@ -86,7 +86,7 @@ I began with basic steps, such as simply deploying the application on servers, a
  <br><br>
 ✍️ **2. [Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here I thought: "What if the use case suggests using NoSQL database and you need to convert the existing SQL data?. I created the script to convert SQL to JSON data and then migrated it to a MongoDB database. Then modified the app to communicate with MongoDB instead of MySQL and deployed it on two EC2 instances over the AWS infrastructure created with CloudFormation as an IaC tool.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here I thought: "What if the use case suggests using NoSQL database and you need to convert the existing SQL data?. I created the script to convert SQL to JSON data and then migrated it to a MongoDB database. Then modified the app to communicate with MongoDB instead of MySQL and deployed it on two EC2 instances.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for AWS CloudFormation as the Infrastructure as Code (IaC) tool instead of Terraform.<br><br>
 ✍️ **3. [Building and deploying the app on Docker containers](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
