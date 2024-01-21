@@ -94,7 +94,9 @@ I began with basic steps, such as simply deploying the application on servers, a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing **Docker** for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints and pushed them to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
 ✍️ **4. [Deploying the app on Kubernetes. "Canary" deployment](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying the Dockerized version of the web application within a Kubernetes cluster. Subsequently, I'm introducing the second version of the app using the "canary" deployment strategy, and routing approximately 33% of incoming traffic to this new version.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then following the logical path I am transitioning the Dockerized app into **Kubernetes**, orchestrating the deployment of the application within a **Kubernetes** cluster launched on **AWS EKS**. The introduction of a **"Canary"** deployment strategy deploying ensured a gradual transition to a new version #2, minimizing user impact.
+
+<br><br>
 ✍️ **5. [Monitoring the app's logs with ELK stack (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up monitoring of the application logs using 'bunyan' library and ELK stack (Elastic search, Logstash, Kibana).<br><br>
