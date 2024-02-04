@@ -128,6 +128,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logging and monitoring a user activity on a server with **AWS Cloudwatch**.
 
+✍️ **2. [Deploying a static web-site to AWS S3 and involving AWS Route53, AWS CloudFront and AWS CertificateManager to implement TLS](https://github.com/otam-mato/otam-mato.github.io.git)**<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploying a static web-site to **AWS S3** and involving **AWS Route53**, **AWS CloudFront** and **AWS CertificateManager** to implement TLS.
+
+
 <br><br>
 
 ## Various Software Development:
