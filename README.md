@@ -6,10 +6,6 @@
 
 <br>
 
-
-
-<br>
-
 > **Basic functionality**
 >
 > This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
