@@ -136,6 +136,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The frontend experiment to interact with **OpenAI API**. The **JavaScript** code handles the main functionality of your chat interface, including API interactions, updating the UI and managing the question history.
 
-✍️ **2. [A front-end snake game](https://github.com/otam-mato/snake_game.git)**<br>
+✍️ **2. [Front-end snake game](https://github.com/otam-mato/snake_game.git)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Couldn't sleep well and made a game which I liked when had a Nokia mobilephone.
