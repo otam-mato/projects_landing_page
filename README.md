@@ -130,3 +130,11 @@ I began with basic steps, such as simply deploying the application on servers, a
 ✍️ **1. [Logging and monitoring a user activity on a server with AWS Cloudwatch](https://github.com/otam-mato/AWS_CloudWatch_logging_and_monitoring.git)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logging and monitoring a user activity on a server with **AWS Cloudwatch**.
+
+<br><br>
+
+## Various Software Development:
+
+✍️ **1. [Logging and monitoring a user activity on a server with AWS Cloudwatch](https://github.com/otam-mato/AWS_CloudWatch_logging_and_monitoring.git)**<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logging and monitoring a user activity on a server with **AWS Cloudwatch**.
