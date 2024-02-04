@@ -123,7 +123,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introducing **Istio** as a service mesh solution, I configured **Observability** features using **Kiali, Jaeger, Prometheus,** and **Grafana**. The implementation showcased a **Blue-Green** and **Canary** deployment strategies, providing fine-grained control over traffic management.
 
-
+<br><br>
 
 ## Various Cloud:
 
