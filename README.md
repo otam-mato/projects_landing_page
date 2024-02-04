@@ -6,25 +6,7 @@
 
 <br>
 
-I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges head-on. I also niticed that describing in writing of what you've learned helps you structure and remember stuff even better and re-produce easily when needed.
-<br>
 
-Such approaches obviously take more time, that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
-
-This inspired me to launch a series where I took a sample NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the sample one and modified it slightly.
-<br>
-
-I began with basic steps, such as simply deploying the application on servers, and then progressively advanced, delving into more complex aspects while exploring current DevOps and Cloud concepts.
-
-<br><br>
-
-
-<p align="center">
-    <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/2f4f43e4-583a-440e-b3c1-3f38674417a9">
-</p>
-<p align="center">
-    <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/70b881af-a7af-4bb1-a431-2aa23e8905da">
-</p>
 
 <br>
 
@@ -70,7 +52,26 @@ I began with basic steps, such as simply deploying the application on servers, a
 >
 > #### **Starting Up**:
 >   - The server comes to life, starts listening for visits, and announces its awakening with a log message.
->
+> I prefer learning through hands-on experience rather than just copying numerously-copied tutorials. I like to dive deep into the details understanding how and why things work, comprehending the specifics, and tackling arising challenges > head-on. I also niticed that describing in writing of what you've learned helps you structure and remember stuff even better and re-produce easily when needed.
+> <br>
+> 
+> Such approaches obviously take more time, that's why my portfolio is not that extensive. But I believe, following this path, what you've learned stays with you forever.
+> 
+> This inspired me to launch a series where I took a sample NodeJS web application, thoroughly grasped its workings, and experimented with diverse DevOps and Cloud technologies. The initial design of the app is not mine. I just took the > sample one and modified it slightly.
+> <br>
+> 
+> I began with basic steps, such as simply deploying the application on servers, and then progressively advanced, delving into more complex aspects while exploring current DevOps and Cloud concepts.
+> 
+> <br><br>
+> 
+> 
+> <p align="center">
+>     <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/2f4f43e4-583a-440e-b3c1-3f38674417a9">
+> </p>
+> <p align="center">
+>     <img width="500" src="https://github.com/otam-mato/projects_landing_page/assets/113034133/70b881af-a7af-4bb1-a431-2aa23e8905da">
+> </p>
+> 
 > </details>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
