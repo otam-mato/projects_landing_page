@@ -137,4 +137,4 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 ✍️ **1. [Front-end experiment with OpenAI API](https://github.com/otam-mato/ChatAI_frontend_app.git)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The frontend experiment to interact with OpenAI API. The JavaScript code handles the main functionality of your chat interface, including API interactions, updating the UI and managing the question history.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The frontend experiment to interact with **OpenAI API**. The **JavaScript** code handles the main functionality of your chat interface, including API interactions, updating the UI and managing the question history.
