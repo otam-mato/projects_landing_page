@@ -81,8 +81,6 @@
 
 <br>
 
-## A series:
-
 ✍️ **1. [Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; In the first project I used **Terraform** as an **IaC [Infrastructure as Code]** tool to **Automate** creating the infrastructure on **AWS**. And explored the basic deployment - on **EC2** + **RDS** instances.
