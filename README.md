@@ -78,7 +78,7 @@ I began with basic steps, such as simply deploying the application on servers, a
 
 <br>
 
-## Projects:
+## A series:
 
 ✍️ **1. [Deploying the app on AWS EC2 and RDS instances](https://github.com/otam-mato/nodejs_mysql_web_app_terraform)** <br>
 
