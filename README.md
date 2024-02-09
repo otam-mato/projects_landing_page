@@ -141,7 +141,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The frontend experiment to interact with **OpenAI API**. The **JavaScript** code handles the main functionality of your chat interface, including API interactions, updating the UI and managing the question history.
 
-✍️ **2. [Client-Server experiment with OpenAI API](https://github.com/otam-mato/ChatAI_frontend_app.git)**<br>
+✍️ **2. [Client-Server experiment with OpenAI API](https://github.com/otam-mato/ChatAI_client-server_app.git)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-enginering the previous solution (ChatAI) to use the client-server architecture. Involves node.js to set up a backend server<br>
 
