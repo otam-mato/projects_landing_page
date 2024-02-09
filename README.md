@@ -146,3 +146,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Couldn't sleep well and made a game which I liked when had a Nokia mobilephone.
 
 ✍️ **3. [JavaScript code de-obfuscation / re-engineering](https://github.com/otam-mato/JavaScript_de-obfuscation_re-engineering.git)**<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De-obfuscating heavily obfuscated code to solve the puzzle.
