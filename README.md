@@ -143,7 +143,7 @@
 
 ✍️ **2. [Client-Server experiment with OpenAI API](https://github.com/otam-mato/ChatAI_frontend_app.git)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-enginering the previous solution (ChatAI) to use the client-server architecture<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-enginering the previous solution (ChatAI) to use the client-server architecture. Involves node.js to set up a backend server<br>
 
 ✍️ **2. [Front-end snake game](https://github.com/otam-mato/snake_game.git)**<br>
 
