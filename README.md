@@ -144,3 +144,5 @@
 ✍️ **2. [Front-end snake game](https://github.com/otam-mato/snake_game.git)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Couldn't sleep well and made a game which I liked when had a Nokia mobilephone.
+
+✍️ **3. [JavaScript code de-obfuscation / re-engineering](https://github.com/otam-mato/JavaScript_de-obfuscation_re-engineering.git)**<br>
