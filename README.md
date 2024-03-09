@@ -97,7 +97,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next is **Observability**. I used **ELK** stack—**ElasticSearch, Logstash, Kibana**—to set up comprehensive log monitoring capabilities.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, I modified the app and involved **"Bunyan"** (a JS logging library) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, a JS **"Bunyan"** logging library has been involved <br><br>
 ✍️ **6. [Prometheus and Grafana Monitoring set up with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Observability** again. Here I set up monitoring of the app's metrics with **Prometheus** and **Grafana** to deliver the real-time visual data and watch the application performance. Deployed the stack using **Docker Compose**.<br><br>
