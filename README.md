@@ -91,7 +91,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, I moved and deployed the application to **Docker** containers, then pushed images to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
 ✍️ **4. [Kubernetes Deployment and "Canary" Strategy](https://github.com/otam-mato/nodejs_mysql_web_app_kubernetes)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, following the logical path I transitioned the Dockerized app into **Kubernetes**, orchestrating the deployment of the application within a **Kubernetes** cluster launched on **AWS EKS**. The follwing introduction of a **"Canary"** deployment strategy deploying ensured a gradual transition to a new version #2, minimizing user impact.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, following the logical path I transitioned the Dockerized app to **Kubernetes**, orchestrating its deployment within a **Kubernetes** cluster launched on **AWS EKS**. The introduction of a "Canary" deployment strategy ensured a gradual transition to a new version (#2), minimizing user impact.
 
 ✍️ **5. [ELK Stack Implementation for Log Monitoring and Observability (ElasticSearch, Logstash, Kibana)](https://github.com/otam-mato/nodejs_mysql_web_app_elk)**<br>
 
