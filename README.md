@@ -97,7 +97,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next is **Observability**. I used **ELK** stack—**ElasticSearch, Logstash, Kibana**—to set up comprehensive log monitoring capabilities.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, I modified the app and involved **"Bunyan logger"** (a JS logging library) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To log every HTTP request sent to the server, I modified the app and involved **"Bunyan"** (a JS logging library) <br><br>
 ✍️ **6. [Prometheus and Grafana Monitoring set up with Docker Compose](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Observability** again. Here I set up monitoring of the app's metrics with **Prometheus** and **Grafana** to deliver the real-time visual data and watch the application performance. Deployed the stack using **Docker Compose**.<br><br>
@@ -106,7 +106,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And again **Observability**. The same stack but setting it up with **Ansible**.<br><br>
 ✍️ **8. [Jenkins-Based CICD Pipeline to Kubernetes on AWS EKS. Testing with MochaJS+ChaiJS libraries](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_AWS)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The implementation of a **Continuous Integration/Continuous Deployment (CICD)** pipeline using **Jenkins** facilitated the deployment of the application on **Kubernetes** within **AWS Elastic Kubernetes Service (EKS)**. To be closer to the real-world use cases, the pipeline incorporated testing stages for unit and end-to-end testing. I modified the app to involve **MochaJS** and **ChaiJS** testing libraries<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The implementation of a **Continuous Integration/Continuous Deployment (CICD)** pipeline using **Jenkins** facilitated the deployment of the application on **Kubernetes** within **AWS Elastic Kubernetes Service (EKS)**. To be closer to the real-world use cases, the pipeline incorporated testing stages for unit and integration testing. I modified the app to involve **MochaJS** and **ChaiJS** testing libraries<br><br>
 ✍️ **9. [DevSecOps Integration and CICD Pipeline Refinement for Azure AKS](https://github.com/otam-mato/nodejs_mysql_web_app_jenkins_azure_devsecops)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next, I switched to **MS Azure** and re-built the **CICD** pipeline and integrating **DevSecOps** stages to scan the app for vulnerabilities using **Trivy, SonarQube** and **OWASP** dependency check which is an important security practice.<br>
