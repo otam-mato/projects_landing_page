@@ -83,9 +83,9 @@
  <br><br>
 ✍️ **2. [Migrating MySQL --> MongoDB with a Python script. Deploying the app on the EC2 instance](https://github.com/otam-mato/nodejs_mongodb_web_app_awscloudformation)** <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What if we need using a **NoSQL** database instead of **SQL** while using the existing **SQL** data? Here, I worked out a **Python** script to convert **SQL** data to **JSON**, migrated the database to **MongoDB**, and tweaked the app to talk to **MongoDB** instead of **MySQL**. Finally, I deployed it on two **EC2** instances.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, I developed a **Python** script to convert **SQL** data to **JSON**, migrated the database to **MongoDB**, and adapted the application to communicate with **MongoDB** instead of **MySQL**. Finally, I deployed it on two **EC2** instances.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I opted for **AWS CloudFormation** as the Infrastructure as Code (IaC) tool instead of **Terraform**.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the infrastructure provisioning, I used **AWS CloudFormation** as the Infrastructure as Code (IaC) tool instead of **Terraform**.<br><br>
 ✍️ **3. [Docker Container Deployment for Application Portability](https://github.com/otam-mato/nodejs_mysql_web_app_docker)**<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embracing **Docker** for its portability advantages, I encapsulated the application within containers, facilitating deployment unburdened by traditional constraints and pushed them to my **DockerHub**. This approach streamlined the journey of the application.<br><br>
