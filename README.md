@@ -6,7 +6,7 @@
 
 <br>
 
-> **Basic functionality**
+> **I am using this sample Node.JS application for demonstration and applying various DevOps technologies to it. App's basic functionality:**
 >
 > This sample two-tier web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
 >
